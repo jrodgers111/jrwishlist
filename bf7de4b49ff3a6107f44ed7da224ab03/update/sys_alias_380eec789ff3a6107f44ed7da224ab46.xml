@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_jrwishlist.jrWishList</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>jrWishList</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-02 18:02:10</sys_created_on>
+        <sys_id>380eec789ff3a6107f44ed7da224ab46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_jrwishlist.jrWishList</sys_name>
+        <sys_package display_value="jrWishList" source="x_snc_jrwishlist">bf7de4b49ff3a6107f44ed7da224ab03</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jrWishList">bf7de4b49ff3a6107f44ed7da224ab03</sys_scope>
+        <sys_update_name>sys_alias_380eec789ff3a6107f44ed7da224ab46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-02 18:02:10</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

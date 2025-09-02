@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-02 18:01:16</sys_created_on>
+        <sys_id>dbdda03c9ff3a6107f44ed7da224ab45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_jrwishlist_jr_wish_item.x_snc_jrwishlist.user</sys_name>
+        <sys_package display_value="jrWishList" source="x_snc_jrwishlist">bf7de4b49ff3a6107f44ed7da224ab03</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jrWishList">bf7de4b49ff3a6107f44ed7da224ab03</sys_scope>
+        <sys_security_acl display_value="x_snc_jrwishlist_jr_wish_item">57dd603c9ff3a6107f44ed7da224abad</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dbdda03c9ff3a6107f44ed7da224ab45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-02 18:01:16</sys_updated_on>
+        <sys_user_role display_value="x_snc_jrwishlist.user" name="x_snc_jrwishlist.user">298d2c389ff3a6107f44ed7da224ab1b</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
